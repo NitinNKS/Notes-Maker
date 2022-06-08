@@ -39,25 +39,17 @@ __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectu
  -->
 
 
-
 <!-- ![screenshot_20200930-192853_not](https://user-images.githubusercontent.com/60071765/94698129-9feb4980-0356-11eb-836b-859bfc29bd01.png)
 ![screenshot_20200930-192914_not](https://user-images.githubusercontent.com/60071765/94698702-33bd1580-0357-11eb-873e-df51a27ff3e7.png) -->
 
 
-<img width="100" alt="Phone Screenshot 1" src="https://user-images.githubusercontent.com/101714917/172632482-a82aef1b-d92b-41fc-b3c5-7abe718f462c.png"><img width="100" alt="Phone Screenshot 2" src="https://user-images.githubusercontent.com/101714917/172632504-432f8f84-07af-4daf-b44e-c749fd5f101c.png">
 
 
-<img width="200" alt="Phone Screenshot 3" src="https://user-images.githubusercontent.com/101714917/172633336-61f28929-34bd-48d7-87a7-502de59fb901.png"><img width="200" alt="Phone Screenshot 4" src="https://user-images.githubusercontent.com/101714917/172633352-bf41c149-542c-45be-91c7-feb43b4b17a9.png">
+<img width="200" alt="Phone Screenshot 1" src="https://user-images.githubusercontent.com/101714917/172634632-842553ca-34a9-4156-8116-b1f42292b455.png"><img width="200" alt="Phone Screenshot 2" src="https://user-images.githubusercontent.com/101714917/172634650-7ce774f0-b6a2-4711-b338-5e368cb781f6.png"><img width="200" alt="Phone Screenshot 3" src="https://user-images.githubusercontent.com/101714917/172635363-5295b4df-62d6-4d98-81a3-18e8462c7ad5.png"><img width="200" alt="Phone Screenshot 4" src="https://user-images.githubusercontent.com/101714917/172635384-224c575c-faff-47cf-b02a-c7cf297e9507.png">
+
+<img width="200" alt="Phone Screenshot 5" src="https://user-images.githubusercontent.com/101714917/172634682-ccd472ab-9a61-4b6a-9548-68d6e5270ca2.png"><img width="200" alt="Phone Screenshot 6" src="https://user-images.githubusercontent.com/101714917/172636085-25c556d8-055b-4f81-9ace-f7d0ab3d765a.png"><img width="200" alt="Phone Screenshot 7" src="https://user-images.githubusercontent.com/101714917/172634745-00690dc5-76b8-4bba-b2ef-cc43c3f5c767.png"><img width="200" alt="Phone Screenshot 8" src="https://user-images.githubusercontent.com/101714917/172634758-c6f3294c-a0d4-425e-af5c-2ad016c18e1e.png">
 
 
-![Phone Screenshot 1](https://user-images.githubusercontent.com/101714917/172629658-c8e957a0-7ffb-49a4-b1e5-f78670bf4c9f.jpg)![Phone Screenshot 2](https://user-images.githubusercontent.com/101714917/172629698-c837c327-2aed-4d18-a697-424959efab1b.jpg)
-![Phone Screenshot 3](https://user-images.githubusercontent.com/101714917/172629726-48f4bc9c-e79f-4eba-bed8-75d8290c2f2e.jpg)
-![Phone Screenshot 4](https://user-images.githubusercontent.com/101714917/172629746-1e1ade0b-c74b-437c-b716-5a0044743d2f.jpg)
-![Phone Screenshot 5](https://user-images.githubusercontent.com/101714917/172629775-201ca605-278a-4020-9d81-044f91fccb26.jpg)
-![Phone Screenshot 6](https://user-images.githubusercontent.com/101714917/172629815-f3a9212d-5220-4929-9cd1-03aeb15fa6fa.jpg)
-![Phone Screenshot 7](https://user-images.githubusercontent.com/101714917/172629826-c403aa23-8f4c-411e-81ca-5da0208d7b9e.jpg)
-
-![Phone Screenshot 8](https://user-images.githubusercontent.com/101714917/172629839-6ab1a890-69a2-4cc2-b792-b4c9c9d0186e.jpg)
 
 
 
