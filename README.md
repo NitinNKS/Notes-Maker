@@ -44,8 +44,7 @@ __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectu
 ![screenshot_20200930-192914_not](https://user-images.githubusercontent.com/60071765/94698702-33bd1580-0357-11eb-873e-df51a27ff3e7.png) -->
 
 
-<img width="100" alt="Phone Screenshot 1" src="https://user-images.githubusercontent.com/101714917/172632482-a82aef1b-d92b-41fc-b3c5-7abe718f462c.png">
-<img width="100" alt="Phone Screenshot 2" src="https://user-images.githubusercontent.com/101714917/172632504-432f8f84-07af-4daf-b44e-c749fd5f101c.png">
+<img width="100" alt="Phone Screenshot 1" src="https://user-images.githubusercontent.com/101714917/172632482-a82aef1b-d92b-41fc-b3c5-7abe718f462c.png"><img width="100" alt="Phone Screenshot 2" src="https://user-images.githubusercontent.com/101714917/172632504-432f8f84-07af-4daf-b44e-c749fd5f101c.png">
 
 
 
