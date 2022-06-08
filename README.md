@@ -46,7 +46,6 @@ __MVVM__ - MVVM stands for Model, View, ViewModel. MVVM is one of the architectu
 
 
 <img width="200" alt="Phone Screenshot 1" src="https://user-images.githubusercontent.com/101714917/172634632-842553ca-34a9-4156-8116-b1f42292b455.png"><img width="200" alt="Phone Screenshot 2" src="https://user-images.githubusercontent.com/101714917/172634650-7ce774f0-b6a2-4711-b338-5e368cb781f6.png"><img width="200" alt="Phone Screenshot 3" src="https://user-images.githubusercontent.com/101714917/172635363-5295b4df-62d6-4d98-81a3-18e8462c7ad5.png"><img width="200" alt="Phone Screenshot 4" src="https://user-images.githubusercontent.com/101714917/172635384-224c575c-faff-47cf-b02a-c7cf297e9507.png">
-
 <img width="200" alt="Phone Screenshot 5" src="https://user-images.githubusercontent.com/101714917/172634682-ccd472ab-9a61-4b6a-9548-68d6e5270ca2.png"><img width="200" alt="Phone Screenshot 6" src="https://user-images.githubusercontent.com/101714917/172636085-25c556d8-055b-4f81-9ace-f7d0ab3d765a.png"><img width="200" alt="Phone Screenshot 7" src="https://user-images.githubusercontent.com/101714917/172634745-00690dc5-76b8-4bba-b2ef-cc43c3f5c767.png"><img width="200" alt="Phone Screenshot 8" src="https://user-images.githubusercontent.com/101714917/172634758-c6f3294c-a0d4-425e-af5c-2ad016c18e1e.png">
 
 
